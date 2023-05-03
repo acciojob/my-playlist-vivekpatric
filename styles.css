@@ -5,6 +5,10 @@ h1{
 .playlist{
 	background:#cccccc;
 }
+ul{
+	list-style-type: none;
+	padding:0;
+}
 .player_one{
 	background:white;
 	border:1px solid #cccccc;
