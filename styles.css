@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+.playlist{
+	background:#cccccc;
+}
+.player_one{
+	background:white;
+	border:1px solid #cccccc;
+}
+.a{
+	text-decoration:none;
+	color:black;
+	padding:10px;
+}
+.player_two{
+	background:white;
+	text-align:center;
+}
+.vid{
+	padding-top:10px;
+}
